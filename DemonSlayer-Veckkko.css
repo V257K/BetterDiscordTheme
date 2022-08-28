@@ -1,0 +1,28 @@
+/**
+* @name DemonSlayer-Veckkko
+* @version Auto Update
+* @description Thx for adding my theme <3 | Véčko#8569
+* @author Véčko#8569
+* @invite PZdnCVD
+* @Source https://github.com/codedotspectra/themes
+* @website https://betterdiscord.app/theme/Neutron
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #36D1DCFF;
+--themeColor2: #E813D0FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/g0atJsf.png');
+--homeImageSize: contain;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/iBm4DYl.gif');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 4px;
+--backgroundOpacity: 0.45;
+--HSL-server-icon-size: 45px;
+--HSL-server-spacing: 10px;
+}
